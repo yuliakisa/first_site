@@ -1,0 +1,118 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image: url(../images/background.jpg);
+	background-position: left top;
+	background-repeat: repeat-x;
+}
+#top_black{
+	width: 100%;
+	height: 90px;
+	background-color: black;
+}
+#logo_container{
+	height: 90px;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#image_logo{
+	width: 255px;
+	float: left;
+	margin-left: 10px;
+	margin-top: 15px;
+}
+#nav_block{
+	width: 400px;
+	height: 90px;
+	float: right;
+}
+.nav_button{
+	width: 70px;
+	color: #FFFFFF;
+	font-size: 12px;
+	float: left;
+	text-align: center;
+	margin-left: 5px;
+	margin-top: 35px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.nav_button:hover{
+	background-color: #333333;
+}
+#content_container{
+	margin-left: auto;
+	margin-right: auto;
+	width: 900px;
+	height: 750px;
+	background-image: url(../images/book.png);
+	background-repeat: no-repeat;
+	background-position: right center;
+}
+#header{
+	width: 500px;
+	margin-top: 100px;
+	float: left;
+	margin-bottom: 250px;
+}
+.title_artical{
+	font-size:35px;
+	color: black;
+	width: 500px;
+	font-style: italic;
+}
+.text_artical{
+	font-size: 12px;
+	color:#333333;
+	width:500px;
+}
+#content_all{
+	width: 100%;
+	float: left;
+	margin-right: 40px;
+}
+#about{
+	float: left;
+	width: 49%
+}
+#client{
+	float: left;
+	width: 50%;
+}
+.text_content{
+	font-size: 12px;
+	color: #333333;
+	text-align: left;
+	width: 400px;
+}
+#bottom_black{
+	width: 100%;
+	height: 160px;
+	background-color: black;
+	color: white;
+	font-style: italic;
+}
+#footer{
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#contact{
+	font-size: 35px;
+	color: white;
+	font-style: italic;
+	float: left;
+	width: 49%
+}
+#clients{
+	font-size: 35px;
+	color: white;
+	font-style: italic;
+	float: left;
+	width: 50%
+}
+.text_contact{
+	font-size: 12px;
+	color: #CCCCCC;
+	width: 400px;
+}
